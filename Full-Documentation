@@ -2475,26 +2475,3 @@ function server.getSeasonalEvent() end
 ---@param message string The string to log
 function debug.log(message) end
 ```
-
-## File: README.md
-```markdown
-![In-Game Screenshot](imgs/1.png)
-
-# Stormworks Addon Lua Documentation
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Stormworks-Build%20and%20Rescue-blue?style=for-the-badge">
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-</div>
-
-## 📚 Overview
-A simple repo containing the Stormworks Addon Lua documentation.
-
-All of the in-game documentation is ported to this repo via screenshots. They can be found in `/docs`. **These screenshots are no longer maintained.**
-
-For intellisense (auto-completion, etc) with Visual Studio Code and the Lua extension, `/docs/intellisense.lua` is what you're loooking for.
-
-## 👨‍🦱 Credit
-- **[Cuh4](https://github.com/Cuh4)** - Maintainer
-- **[NameousChangey](https://github.com/nameouschangey)** & **[Toastery](https://github.com/Toast732)** - Original Creators of `/docs/intellisense.lua`
-```
